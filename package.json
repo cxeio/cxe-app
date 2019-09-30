@@ -1,0 +1,23 @@
+{
+  "name": "@cxe/app",
+  "version": "0.1.0",
+  "description": "CXE NodeJS Application",
+  "homepage": "https://cxe.io/?q=app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cxeio/cxe-app.git"
+  },
+  "keywords": [],
+  "author": "cxe.io",
+  "contributors": [
+    "Ian Carter"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cxeio/cxe-app/issues"
+  }
+}
